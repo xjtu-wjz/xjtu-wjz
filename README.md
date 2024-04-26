@@ -10,8 +10,8 @@
 
 
 
--👋 Hi,I'm @xjtu-wjz.
--🌱 I'm currently an undergraduate of Xi'an Jiaotong University in Computer Science department.
--🔎 I'm conducting related reaserch on OOD and data mining.
--💞 I'm looking for Ph.D. position starting in 26Fall!!
--📫 How to reach me:email: wjz2223612432@stu.xjtu.edu.cn
+- 👋 Hi,I'm @xjtu-wjz.
+- 🌱 I'm currently an undergraduate of Xi'an Jiaotong University in Computer Science department.
+- 🔎 I'm conducting related reaserch on OOD and data mining.
+- 💞 I'm looking for Ph.D. position starting in 26Fall!!
+- 📫 How to reach me:email: wjz2223612432@stu.xjtu.edu.cn
